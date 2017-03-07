@@ -1,0 +1,3 @@
+com.aptana.editor.common.px2remEnable=true
+eclipse.preferences.version=1
+selectUserAgents=com.aptana.projects.webnature\:360Light-h5+,Android,Android-h5+,Chrome,Mozilla,IE,Safari/iOS,IOS-h5+,Edge,Netscape,Opera,Safari,WP-h5+
